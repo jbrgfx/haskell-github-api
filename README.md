@@ -7,7 +7,7 @@ Demonstrating implementation examples of
 [hackage documentation](https://hackage.haskell.org/package/github)
 
 The package is complex, so examples help familiarize users with some basics.
-The samples packaged with the source code are not yet up-date, so these examples show demonstrate simple use-cases.
+The samples packaged with the source code are not yet up-to-date, so these examples show demonstrate simple use-cases.
 The source files have been renamed for ease of use and occasionally moved. Implementations are not obvious but can be quite simple.
 
 # Getting started
