@@ -1,6 +1,6 @@
 # haskell-github-api
 Demonstrating implementation examples of
-[package github-0.19](https://github.com/phadej/github-0.19)
+[package github-0.19](https://github.com/phadej/github)
 
 # package docs
 
