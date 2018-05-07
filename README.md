@@ -12,7 +12,7 @@ The source files have been renamed for ease of use and occasionally moved. Imple
 
 # Getting started
 Clone the repo, get dependences using stack build, and then
-load scripts into ghci using commands like the following from the project group:
+load scripts into ghci using commands like the following from the project root:
 ```
    $ stack ghci src/Main.hs
    *Main> main
