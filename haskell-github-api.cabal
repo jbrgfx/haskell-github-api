@@ -2,11 +2,11 @@ name:                haskell-github-api
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/jbrgfx/package-search#readme
+homepage:            https://github.com/jbrgfx/haskell-github-api
 license:             BSD3
 license-file:        LICENSE
 author:              James B. Ross
-maintainer:          example@example.com
+maintainer:          jbrgfx
 copyright:           2018 James B. Ross
 category:            Web
 build-type:          Simple
