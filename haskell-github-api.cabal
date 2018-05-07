@@ -1,4 +1,4 @@
-name:                package-search
+name:                haskell-github-api
 version:             0.1.0.0
 -- synopsis:
 -- description:
@@ -21,6 +21,6 @@ executable package-search
                      , base-compat
                      , github
                      , text
-                     
+
 
                        -- github >= 0.19 && < 0.2
