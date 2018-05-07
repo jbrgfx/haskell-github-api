@@ -18,3 +18,4 @@ load scripts into ghci using commands like the following from the project root:
    *Main> main
 ```
 Change the references to users and repos to match those that hold interest to you.
+The examples use resolver: lts-11.7, so if this fails to meet your needs, adjust this setting in stack.yaml.
