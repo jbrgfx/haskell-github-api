@@ -1,6 +1,6 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
-module ShowReadme where
+module ShowWatchedByMe where
 
 import qualified GitHub.Endpoints.Activity.Watching as GEAW
 import qualified GitHub.Data.Repos as GDR
