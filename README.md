@@ -6,8 +6,7 @@ Implementation examples of
 
 [hackage documentation](https://hackage.haskell.org/package/github)
 
-The package is complex, so examples help familiarize users with some basics.
-The samples packaged with the source code are not yet up-to-date and because some of source files have been renamed for ease of use and occasionally moved, spinning up new samples can be a challenge. Implementations are not obvious but can be quite simple since the API is strong, so these examples demonstrate simple use-cases to help others see how the latest code works.
+The package is complex, so simple implementation examples help familiarize users with some basics.
 
 # Getting started
 Clone the repo, get dependences using stack build, and then
