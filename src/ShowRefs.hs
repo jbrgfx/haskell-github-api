@@ -9,6 +9,7 @@ import Data.Text         (Text, pack)
 import Data.Text.IO as T (putStrLn)
 
 main = do
-  refs <- GEGR.reference "phadej" "github" "heads/master"
+  -- refs <- GEGR.reference "phadej" "github" "heads/master"
+  refs <- GEGR.namespacedReferences "snoyberg" "conduit" "tags"
   print refs
   -- returns the SHA obj ref to be used elsewhere
