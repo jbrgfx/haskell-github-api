@@ -10,7 +10,7 @@ The package is complex, so simple implementation examples help familiarize users
 
 # Getting started
 Clone the repo, get dependences using stack build, and then
-load scripts into ghci using commands like the following from the project root:
+load scripts using commands like the following from the project root:
 ```
 $ stack runghc src/ShowWatchedByMe.hs
 ```
