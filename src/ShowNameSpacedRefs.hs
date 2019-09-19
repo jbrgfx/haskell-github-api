@@ -1,6 +1,6 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
-module ShowNamedSpacedRefs where
+module ShowNameSpacedRefs  where
 
 import qualified GitHub.Endpoints.GitData.References as GEGR
 import Prelude.Compat

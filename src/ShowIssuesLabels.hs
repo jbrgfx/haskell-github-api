@@ -1,6 +1,6 @@
 {-# LANGUAGE NoImplicitPrelude #-}
 {-# LANGUAGE OverloadedStrings #-}
-module ShowReadme where
+module ShowIssuesLabels  where
 
 import qualified GitHub.Endpoints.Issues.Labels as GEIL
 import Prelude.Compat

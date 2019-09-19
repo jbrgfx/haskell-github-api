@@ -1,5 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
-module SearchRepos where
+module SearchRepo where
 
 import qualified GitHub.Endpoints.Search as Github
 import qualified GitHub.Data as Github
